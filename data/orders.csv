@@ -1,0 +1,23 @@
+order_id,customer,product,quantity,unit_price,order_date
+1001,Ana Souza,Notebook,1,3500.00,2024-03-01
+1002,Bruno Lima,Mouse,2,45.50,2024-03-02
+1003, Carla Dias ,Keyboard,1,120.00,2024-03-03
+1004,Diego Santos,Monitor,1,899.90,2024-03-05
+1002,Bruno Lima,Mouse,2,45.50,2024-03-02
+1005,Elisa Ferreira,Headset,,89.90,2024-03-06
+1006,Fabio Rocha,Webcam,1,,2024-03-07
+1007,Gabriela Nunes,USB Cable,3,"R$ 25,00",2024-03-08
+1008,Henrique Alves,Desk Lamp,two,60.00,2024-03-10
+1009,Isabela Castro,Chair,1,450.00,2024-13-45
+1010,Joao Pedro Martins,Desk,1,750.00,2024-03-12
+1011,,Bookshelf,2,180.00,2024-03-13
+1012,Larissa Gomes, Printer ,1,620.00,2024/03/15
+1013,Marcos Vieira,SSD,4,230.00,2024-03-16
+1001,Ana Souza,Notebook,1,3500.00,2024-03-01
+1014,Natasha Pereira,RAM Memory,0,150.00,2024-03-18
+1015,Otavio Ribeiro,Power Supply,-2,300.00,2024-03-19
+1016,Paula Mendes,Cooler,2,75.50,not-a-date
+1017,Quintino Barros,Tablet,1,1200.00,2024-03-21
+1018,Rafael Teixeira,Smartwatch,,550.00,2024-03-22
+1019,Sofia Almeida,Phone Stand,5,30.00,2024-03-23
+1020,Thiago Cardoso,HDMI Cable,3,25.90,2024-03-25
