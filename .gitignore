@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.pytest_cache/
+
+database/*.db
+database/*.sqlite3
+
+.DS_Store
+Thumbs.db
